@@ -1,0 +1,8 @@
+.dataTables_filter {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.dataTables_wrapper {
+    position: relative;
+}
